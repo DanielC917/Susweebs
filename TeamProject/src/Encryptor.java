@@ -6,7 +6,7 @@ public class Encryptor {
 		int j = 2;
 		int i = 0;
 		if(i > 1) {
-			System.out.println("Goodbye");
+			System.out.println("Hello");
 		}
 		if(i < 1) {
 			System.out.println("Hello");
