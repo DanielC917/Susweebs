@@ -5,7 +5,7 @@ public class Encryptor {
 		// TODO Auto-generated method stub
 		int j = 2;
 		if(j > 1) {
-			System.out.println("Goodbye");
+			System.out.println("Hello");
 		}
 		if(i < 1) {
 			System.out.println("Hello");
